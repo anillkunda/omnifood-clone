@@ -29,4 +29,4 @@
 - JavaScript
 
 ## Contact
-Connect with me on LinkedIn : [Anil Kunda ↗](https://www.linkedin.com/in/anillkunda/)
+Connect with me on LinkedIn : [Anil Kunda ↗](https://www.linkedin.com/in/anilkunda/)
